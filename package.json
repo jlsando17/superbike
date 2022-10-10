@@ -1,0 +1,23 @@
+{
+  "name": "crud-node",
+  "version": "1.0.0",
+  "description": "introduccion a nodejs",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlsando17/superbike.git"
+  },
+  "author": "Jose Mision Tic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlsando17/superbike/issues"
+  },
+  "homepage": "https://github.com/jlsando17/superbike#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
